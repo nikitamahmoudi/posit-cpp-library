@@ -13,7 +13,7 @@ A C++ library for handling posit numbers. This library provides functionality fo
 Clone the repository and navigate to the root directory of the project:
 
 ```bash
-git clone https://github.com/yourusername/posit-cpp-library.git
+git clone https://github.com/nikitamahmoudi/posit-cpp-library.git
 cd posit-cpp-library
 ```
 
